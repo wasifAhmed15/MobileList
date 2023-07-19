@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fofo{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.form{
+    text-align: center;
+    margin: 30px;
+    border: 2px solid black;
+    
+   height: auto;
+    
+}
+input{
+    width: 300px;
+margin: 10px;
+margin-bottom: 30px;
+padding: 5px;
+border-top:0px ;
+border-left:0px ;
+border-right:0px ;
+border-bottom: 4px solid black ;
+
+outline: none;
+
+}
+
+input:hover{
+    border: 2px solid rgb(51, 189, 235);
+}
+
+ul li {
+    list-style: none;
+}
+button{
+    color: rgb(7, 8, 8);
+    background-color: rgb(233, 28, 110);
+    padding: 5px;
+    margin: 6px;
+    border: none;
+    outline: none;
+    font-size: 1.1em;
+    border-radius: 2px;
+    
+}
+
+button:hover{
+    font-size: 1.3em;
+    background-color: rgb(230, 27, 119);
+}
